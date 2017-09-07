@@ -1,3 +1,7 @@
-Hello, there. Let's try GitHub.
+Register your name and modify the text.
 
-정홍
+Append your name here: 정홍,
+
+
+Modify, add, and change this sentence: The instinctive burst collates the knowledge.
+Generate Random Sentences
