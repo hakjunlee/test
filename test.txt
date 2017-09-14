@@ -11,6 +11,8 @@ Jacob Morton,
 노현민(Hyunmin Nohe)
 박경훈(Kyounghoon Park)
 김진유(Jinyou Kim)
+이승관(Seungkwan Lee)
+
 		
 Modify, add, and change this sentence: The file was broken due to a different encoding setting!.. XD.
 Generate Random Sentences
