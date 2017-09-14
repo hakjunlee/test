@@ -1,4 +1,4 @@
-Register your name and modify the text.
+﻿Register your name and modify the text.
 
 Append your name here: ??¢Ã?„¢Â,
 Jacob Morton,
@@ -13,7 +13,8 @@ Jacob Morton,
 김진유(Jinyou Kim)
 이승관(Seungkwan Lee)
 
-		
+	
+이학준(Hakjun Lee)	
 Modify, add, and change this sentence: The file was broken due to a different encoding setting!.. XD.
 Generate Random Sentences
 
