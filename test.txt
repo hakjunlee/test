@@ -15,6 +15,7 @@ Jacob Morton,
 이학준(Hakjun Lee)
 정든솔(DeunSol Jung)
 이재호 (Jaeho Lee)
+김범석 (Beoimseok Kim)
 
 
 Modify, add, and change this sentence: The file was broken due to a different encoding setting!.. XD.
