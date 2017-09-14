@@ -15,6 +15,12 @@ Jacob Morton,
 이학준(Hakjun Lee)
 정든솔(DeunSol Jung)
 이재호 (Jaego Lee) -- conflict test
+이재호 (Jaego Lee) -- Different contents committed will cause conflict!!
+<<<<<<< HEAD
+이재호 (Jaego Lee) -- conflict test
+=======
+이재호 (Jaego Lee) -- Different contents committed will cause conflict!!
+>>>>>>> 51d2531a1162c1618287087f792f9af4998f5e71
 
 Modify, add, and change this sentence: The file was broken due to a different encoding setting!.. XD.
 Generate Random Sentences
