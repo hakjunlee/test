@@ -13,6 +13,7 @@ Jacob Morton,
 김진유(Jinyou Kim)
 이승관(Seungkwan Lee)
 이학준(Hakjun Lee)
+정든솔(DeunSol Jung)
 
 
 Modify, add, and change this sentence: The file was broken due to a different encoding setting!.. XD.
